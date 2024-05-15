@@ -1,8 +1,8 @@
-👋 Hola, soy Judith
+#Hola, soy Judith 👋
 
 
 
-### Sobre mí
+## Sobre mí
 * Estudio ingeniería informática
 * Me apasiona la tecnología
 * Me gusta aprender cosas nuevas
