@@ -1,5 +1,6 @@
 # Hola, soy Judith 👋
 
+![portadaRD](https://github.com/judith-vm/MiCV/assets/157530840/782375bd-5ea5-4e20-8b62-2b536fb87679)
 
 
 ## Sobre mí
