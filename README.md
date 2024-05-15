@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @judith-vm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#👋 Hola, soy Judith
+
+
+
+### Sobre mí
+* Estudio ingeniería informática
+* Me apasiona la tecnología
+* Me gusta aprender cosas nuevas
+* 
 
 <!---
 judith-vm/judith-vm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
