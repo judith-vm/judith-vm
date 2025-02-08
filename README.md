@@ -4,8 +4,6 @@
 
 
 ## Sobre mí
-* Actualmente estudio ingeniería informática👩‍💻
-* Me apasiona la tecnología 💻
 * Me gusta aprender cosas nuevas💡
 
 
